@@ -19,7 +19,7 @@
 
 
 
-# Python Syllabus 
+# My Python Syllabus 
     Module 1: Introduction to Python
     - Introduction to Python
     - Installing Python
@@ -135,3 +135,97 @@
     - Performance Optimization
     - Security Best Practices
     - Software Development Life Cycle
+
+# College Python Syllabus
+    Module 1: Introduction to Python
+    1. History of Python
+    2. Python Versions
+    3. Features of Python
+    4. Advantages of Python
+    5. Application Areas of Python
+    
+    Module 2: Python Basics
+    6. Integrated Development and Learning Environment (IDLE)
+    7. Editors for Python
+    8. Keywords in Python
+    9. Identifiers in Python
+    10. Code Indentation
+    11. Input and Output
+    12. Basic Syntax
+    13. Variables
+    14. Dynamic Typing
+    15. Data Types (Mutable and Immutable)
+    16. Built-in Conversion Methods
+    
+    Module 3: Operators
+    17. Arithmetic Operators
+    18. Comparison Operators
+    19. Logical Operators
+    20. Identity Operators
+    21. Membership Operators
+    
+    Module 4: Control Statements
+    22. Conditional Statements (If, If-else, Elsif, Nested if-else)
+    23. Looping Statements (While, For, Nested Loops)
+    24. Break, Continue, and Pass Statements
+    
+    Module 5: Arrays
+    25. Introduction to Arrays
+    26. Creation of Arrays
+    27. Traverse Arrays
+    28. Insertion, Deletion, Search, and Update in Arrays
+    
+    Module 6: Strings
+    29. Introduction to Strings
+    30. Types of Strings
+    31. Escape Sequences
+    32. String Formatting
+    33. String Operators
+    34. Built-in String Methods
+    35. Basic String Operations
+    
+    Module 7: Lists and Tuples
+    36. Introduction to Lists and Tuples
+    37. Accessing List and Tuple Elements
+    38. List and Tuple Operators
+    39. Built-in List and Tuple Methods
+    40. Basic List and Tuple Operations
+    
+    Module 8: Sets
+    41. Introduction to Sets
+    42. Accessing Sets
+    43. Built-in Set Methods
+    44. Set Operations
+    
+    Module 9: Dictionaries
+    45. Introduction to Dictionaries
+    46. Accessing Dictionary Elements
+    47. Updating and Deleting Dictionary Elements
+    48. Viewing Values in Dictionaries
+    49. Built-in Dictionary Methods
+    
+    Module 10: Functions
+    50. Defining Functions
+    51. Calling Functions
+    52. Function Arguments (Required, Keyword, Default, Variable Length)
+    53. Anonymous Functions (Lambda)
+    54. Global and Local Variables
+    
+    Module 11: Modules
+    55. Introduction to Modules
+    56. Importing Modules
+    57. Built-in Modules (e.g., Math, Statistics, Random)
+    
+    Module 12: Packages
+    58. Creating Packages
+    59. Installing Packages
+    60. Importing Modules from Packages
+    
+    Module 13: Errors and Exceptions
+    61. Error Types in Python
+    62. Introduction to Exception Handling
+    63. Try, Except, Else, and Finally Blocks
+    
+    Module 14: File Input-Output
+    64. Opening and Closing Files
+    65. Reading from and Writing to Files
