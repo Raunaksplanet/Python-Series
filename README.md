@@ -12,7 +12,8 @@
 | First Program in Python | [🔗 Hello World](https://github.com/Raunaksplanet/Python-Series/blob/main/All%20Code/FirstCode.py) |
 | Intro to Python | [🔗 Comment, escape sequance, Data Types(Mutable,Immutable), Input & output method, Conversion Method](https://github.com/Raunaksplanet/Python-Series/blob/main/All%20Code/IntroToPython.py) |
 | Control structure/Statements|
-| Conditional Statements | [🔗 if, elif, else](https://github.com/Raunaksplanet/Python-Series/blob/main/All%20Code/Conditionalstatements.py) |
+| Conditional Statements | [🔗 If, Elif, Else](https://github.com/Raunaksplanet/Python-Series/blob/main/All%20Code/Conditionalstatements.py) |
+| Looping Statements | [🔗 For, While](https://github.com/Raunaksplanet/Python-Series/blob/main/All%20Code/Looping_Statements.py) |
 
 
 
