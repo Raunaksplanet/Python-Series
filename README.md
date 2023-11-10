@@ -9,7 +9,8 @@
 | Topic | Link |
 |---------------------------------------|-------------------------------------------------------------------------------------------|
 | **Introduction** | |
-| First Program in Python | [🔗 Link](https://github.com/Raunaksplanet/Python-Series/blob/main/All%20Code/FirstCode.py) |
+| First Program in Python | [🔗 Hello World](https://github.com/Raunaksplanet/Python-Series/blob/main/All%20Code/FirstCode.py) |
+| Intro to Python | [🔗 Comment, escape sequance, Data Types(Mutable,Immutable), Input & output method, Conversion Method](https://github.com/Raunaksplanet/Python-Series/blob/main/All%20Code/IntroToPython.py) |
 
 
 
