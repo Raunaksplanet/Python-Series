@@ -14,6 +14,7 @@
 | Control structure/Statements|
 | Conditional Statements | [🔗 If, Elif, Else](https://github.com/Raunaksplanet/Python-Series/blob/main/All%20Code/Conditionalstatements.py) |
 | Looping Statements | [🔗 For, While](https://github.com/Raunaksplanet/Python-Series/blob/main/All%20Code/Looping_Statements.py) |
+| Jumping Statements | [🔗 Break, While, Pass](https://github.com/Raunaksplanet/Python-Series/blob/main/All%20Code/JumpingStatement.py) |
 
 
 
