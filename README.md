@@ -16,6 +16,7 @@
 | Looping Statements | [🔗 For, While](https://github.com/Raunaksplanet/Python-Series/blob/main/All%20Code/Looping_Statements.py) |
 | Jumping Statements | [🔗 Break, While, Pass](https://github.com/Raunaksplanet/Python-Series/blob/main/All%20Code/JumpingStatement.py) |
 | Introduction to List | [🔗 List, Operations, Methods](https://github.com/Raunaksplanet/Python-Series/blob/main/All%20Code/IntroToList.py) |
+| Introduction to Functions | [🔗 Default parameters, *args, **kwargs, lambda function, recursive function & local, global variable](https://github.com/Raunaksplanet/Python-Series/blob/main/All%20Code/Intro_to_Functions.py) |
 
 
 
