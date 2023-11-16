@@ -17,7 +17,7 @@
 | Jumping Statements | [🔗 Break, While, Pass](https://github.com/Raunaksplanet/Python-Series/blob/main/All%20Code/JumpingStatement.py) |
 | Introduction to List | [🔗 List, Operations, Methods](https://github.com/Raunaksplanet/Python-Series/blob/main/All%20Code/IntroToList.py) |
 | Introduction to Functions | [🔗 Default parameters, *args, **kwargs, lambda function, recursive function & local, global variable](https://github.com/Raunaksplanet/Python-Series/blob/main/All%20Code/Intro_to_Functions.py) |
-
+| Introduction to Exception Handeling | [🔗 Try, Except, Else, Finally](https://github.com/Raunaksplanet/Python-Series/blob/main/All%20Code/Intro_To_Exception_Handeling.py) |
 
 
 
