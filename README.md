@@ -11,7 +11,7 @@
 | **Introduction** | |
 | First Program in Python | [🔗 Hello World](https://github.com/Raunaksplanet/Python-Series/blob/main/All%20Code/FirstCode.py) |
 | Intro to Python | [🔗 Comment, escape sequance, Data Types(Mutable,Immutable), Input & output method, Conversion Method](https://github.com/Raunaksplanet/Python-Series/blob/main/All%20Code/IntroToPython.py) |
-| Control structure/Statements|
+| **Control structure/Statements**|
 | Conditional Statements | [🔗 If, Elif, Else](https://github.com/Raunaksplanet/Python-Series/blob/main/All%20Code/Conditionalstatements.py) |
 | Looping Statements | [🔗 For, While](https://github.com/Raunaksplanet/Python-Series/blob/main/All%20Code/Looping_Statements.py) |
 | Jumping Statements | [🔗 Break, While, Pass](https://github.com/Raunaksplanet/Python-Series/blob/main/All%20Code/JumpingStatement.py) |
@@ -20,6 +20,10 @@
 | Introduction to Exception Handeling | [🔗 Try, Except, Else, Finally](https://github.com/Raunaksplanet/Python-Series/blob/main/All%20Code/Intro_To_Exception_Handeling.py) |
 | Introduction to Object Oriented Programming | [🔗 Class, Object, Method, Inheritance, Polymorphism, Encapsulation, Abstraction](https://github.com/Raunaksplanet/Python-Series/blob/main/All%20Code/Intro_to_OOPs.py) |
 | Introduction to File Handling | [🔗 Opening, closing, Reading, Writting File](https://github.com/Raunaksplanet/Python-Series/blob/main/All%20Code/Intro_To_FileHandling.py) |
+| **Introduction to File Handling** | |
+| Main File | [🔗 Module and packages importing](https://github.com/Raunaksplanet/Python-Series/blob/main/All%20Code/Module_Pacakges.py) |
+| Module File | [🔗 Creating Module using classes ](https://github.com/Raunaksplanet/Python-Series/blob/main/All%20Code/MyModule.py) |
+| Package Folder | [🔗 Creating Packages using Module and classes](https://github.com/Raunaksplanet/Python-Series/tree/main/All%20Code/MyPackage) |
 
 
 
