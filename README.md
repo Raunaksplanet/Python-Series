@@ -24,7 +24,7 @@
 | Main File | [🔗 Module and packages importing](https://github.com/Raunaksplanet/Python-Series/blob/main/All%20Code/Module_Pacakges.py) |
 | Module File | [🔗 Creating Module using classes ](https://github.com/Raunaksplanet/Python-Series/blob/main/All%20Code/MyModule.py) |
 | Package Folder | [🔗 Creating Packages using Module and classes](https://github.com/Raunaksplanet/Python-Series/tree/main/All%20Code/MyPackage) |
-
+| Python Standard Library | [🔗 math, date, random, collection, sys, os, argparse, itertools, functools](https://github.com/Raunaksplanet/Python-Series/blob/main/All%20Code/PythonStandardLibrary.py) |
 
 
 
