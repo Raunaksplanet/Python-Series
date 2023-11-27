@@ -25,8 +25,8 @@
 | Module File | [🔗 Creating Module using classes ](https://github.com/Raunaksplanet/Python-Series/blob/main/All%20Code/MyModule.py) |
 | Package Folder | [🔗 Creating Packages using Module and classes](https://github.com/Raunaksplanet/Python-Series/tree/main/All%20Code/MyPackage) |
 | Python Standard Library | [🔗 math, date, random, collection, sys, os, argparse, itertools, functools](https://github.com/Raunaksplanet/Python-Series/blob/main/All%20Code/PythonStandardLibrary.py) |
-| Decorators | [🔗 Intro to Decorators](https://github.com/Raunaksplanet/Python-Series/blob/main/All%20Code/Intro_to_Decorators.py) |
-| Generators | [🔗 Intro to Generators]() |
+| Decorators | [🔗 Introduction to Decorators](https://github.com/Raunaksplanet/Python-Series/blob/main/All%20Code/Intro_to_Decorators.py) |
+| Generators | [🔗 Introduction to Generators]() |
 
 
 
