@@ -36,6 +36,10 @@
 | Python Standard Library | [🔗 math, date, random, collection, sys, os, argparse, itertools, functools](https://github.com/Raunaksplanet/Python-Series/blob/main/All%20Code/PythonStandardLibrary.py) |
 | Decorators | [🔗 Introduction to Decorators](https://github.com/Raunaksplanet/Python-Series/blob/main/All%20Code/Intro_to_Decorators.py) |
 | Generators | [🔗 Introduction to Generators](https://github.com/Raunaksplanet/Python-Series/blob/main/All%20Code/Intro_To_Generators.py) |
+| **Socket Programming** | |
+| All Socket Programming | [🔗 Socket Programming](https://github.com/Raunaksplanet/Python-Series/tree/main/Socket%20Programming) |
+| Client | [🔗 Client.py](https://github.com/Raunaksplanet/Python-Series/blob/main/Socket%20Programming/client.py) |
+| Server | [🔗 server.py](https://github.com/Raunaksplanet/Python-Series/blob/main/Socket%20Programming/server.py) |
 
 
 
