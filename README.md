@@ -106,12 +106,7 @@
     - CSV and Excel Processing
     - Database Interaction (SQLite)
     
-    Module 10: Error Handling and Debugging
-    - Logging
-    - Debugging Techniques
-    - Unit Testing (unittest)
-    
-    Module 11: Advanced Topics
+    Module 10: Advanced Topics
     - Decorators
     - Generators and Iterators
     - Context Managers
@@ -119,46 +114,13 @@
     - Socket Programming
     - Web Scraping with BeautifulSoup and Requests
     
-    Module 12: Web Development with Python
+    Module 11: Web Development with Python
     - Introduction to Web Frameworks (e.g., Flask, Django)
     - Routing and Views
     - Templates
     - Working with Databases (e.g., SQLAlchemy)
     - Authentication and Security
     
-    Module 13: Data Analysis and Visualization
-    - NumPy
-    - Pandas
-    - Matplotlib
-    - Seaborn
-    - Data Wrangling and Cleaning
-    - Exploratory Data Analysis
-    
-    Module 14: Machine Learning with Python
-    - Introduction to Machine Learning
-    - Scikit-Learn
-    - Data Preprocessing
-    - Supervised and Unsupervised Learning
-    - Model Evaluation
-    
-    Module 15: Data Science and Big Data
-    - Data Science Libraries (SciPy, Scrapy, etc.)
-    - Introduction to Big Data (Hadoop, Spark)
-    - Data Engineering
-    - Data Visualization with Plotly
-    
-    Module 16: Deployment and Cloud Services
-    - Deployment Options (Heroku, AWS, Azure)
-    - Docker Containers
-    - Serverless Computing (AWS Lambda)
-    - Cloud Services and APIs
-    
-    Module 17: Best Practices and Advanced Concepts
-    - Code Style and PEP 8
-    - Design Patterns
-    - Performance Optimization
-    - Security Best Practices
-    - Software Development Life Cycle
 
 # College Python Syllabus
     Module 1: Introduction to Python
