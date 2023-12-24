@@ -7,7 +7,7 @@
 ## Creating an Executable File from a Python App
 
     • "pyinstaller" is a python package that converts your Python code to an executable:
-    • To install pyinstaller:  install pyinstaller
+    • To install pyinstaller:  pip install pyinstaller
     • To create an executable: pyinstaller main.py 
     • To execute in the command line Ensure you are in the current file path for the folder:  execute .\main.exe
     • To package the file into one executable: pyinstaller --onefile .\main.py
